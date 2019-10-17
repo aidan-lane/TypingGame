@@ -1,0 +1,6 @@
+var a_list = "attractive,bald,beautiful,chubby,clean,dazzling,drab,elegant,fancy,fit,flabby,glamorous,gorgeous,handsome,long,magnificent,muscular,plain,plump,quaint,scruffy,shapely,short,skinny,stocky,ugly,unkempt,unsightly,ashy,black,blue,gray,green,icy,lemon,mango,orange,purple,red,salmon,white,yellow,alive,better,careful,clever,dead,easy,famous,gifted,hallowed,helpful,important,inexpensive,mealy,mushy,odd,poor,powerful,rich,shy,tender,unimportant,uninterested,vast,wrong,angry,bewildered,clumsy,defeated,embarrassed,fierce,grumpy,helpless,itchy,jealous,lazy,mysterious,nervous,obnoxious,panicky,pitiful,repulsive,scary,thoughtless,uptight,worried";
+
+var n_list = "dinner,straw,slope,passenger,copper,notebook,playground,fly,pan,end,coat,number,wall,shape,edge,bomb,interest,tomatoes,point,scene,berry,twig,toes,shake,crayon,battle,face,pot,insect,nut,plantation,drop,education,thing,hook,motion,temper,zoo,request,ink,middle,show,train,spoon,division,flavor,star,bed,experience,rule,sponge,price,afternoon,cheese,attraction,advertisement,wave,mask,purpose,school,creator,uncle,ladybug,belief,payment,chalk,lock,coil,regret,guide,pin,mind,market,pigs,care,army,crack,harmony,oil,cars,tin,surprise,horn,value,yak,winter,spade,lettuce,seed,word,woman,camp,hot,loss,wren,knife,trade,mice,secretary,eye";
+
+var adjectives = a_list.split(",");
+var nouns = n_list.split(",");
