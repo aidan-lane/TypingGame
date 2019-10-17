@@ -1,2 +1,2 @@
 # TypingGame
-Type to defeat the oncoming adjective-noun combinations!
+Type to defeat the incoming adjective-noun combinations!
